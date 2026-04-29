@@ -1,6 +1,6 @@
 # hampiway-catalogo26
 Catálogo hampiway 26
-<!DOCTYPE html>
+<!index. html>
 
 <html lang="es">
 <head>
